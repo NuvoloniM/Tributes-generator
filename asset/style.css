@@ -1,0 +1,17 @@
+img {
+  width: 100%;
+}
+
+.title {
+  background-color: rgb(135, 20, 20);
+}
+
+.btn_red {
+  background-color: rgb(135, 20, 20);
+  color: #fff;
+}
+
+.btn_red:hover {
+  background-color: rgb(91, 11, 11);
+  color: #fff;
+}
