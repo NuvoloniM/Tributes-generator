@@ -15,3 +15,9 @@ img {
   background-color: rgb(91, 11, 11);
   color: #fff;
 }
+
+.btn_gold {
+  background-color: #cda434;
+  color: #000;
+  border: 1px solid #000;
+}
